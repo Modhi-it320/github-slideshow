@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-My name is Modhi.
+My name is Modhi
 Use the left arrow to go back!
